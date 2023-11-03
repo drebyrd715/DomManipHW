@@ -54,7 +54,7 @@ let quotes = [
 
   
     // Part 8
-  
+  document.querySelector("#quote-title")
   
     // Part 9
   
